@@ -52,5 +52,58 @@ Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) 
 
 ---
 
-🔗 **GitHub:** [https://github.com/AeroDLL/linkedin-bot](https://github.com/AeroDLL/linkedin-bot)  
-📧 **İletişim:** [emirhan.bicakci00@gmail.com](mailto:emirhan.bicakci00@gmail.com)
+# 🚀 LinkedIn AI Pro v2.0
+
+**Open Source Assistant for a Smart LinkedIn Experience**
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/AeroDLL/linkedin-bot/blob/main/LICENSE)
+[![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Required-orange)](https://www.tampermonkey.net/)
+[![Gemini AI](https://img.shields.io/badge/Gemini-AI-green)](https://ai.google.dev/)
+
+LinkedIn AI Pro is a fully open-source userscript that helps professionals intelligently manage their interactions on LinkedIn.
+
+## ✨ Features
+
+- 🤖 **AI-Powered Content Generation** (Posts, Comments, Messages)
+- 🚀 **Smart Networking** (Connection suggestions & connection building)
+- 📊 **Profile Analysis & Optimization**
+- 📈 **Real-Time Analytics Dashboard**
+- 🌍 **Multi-Language Support** (Turkish/English)
+- 🔒 **Secure & Human-Like Behavior**
+
+## 🛠️ Requirements
+
+- [Tampermonkey](https://www.tampermonkey.net/) browser extension
+- [Gemini AI API Key](https://ai.google.dev/) (Free)
+
+## 📥 Installation
+
+1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension on your browser.
+2. Install the [LinkedIn AI Pro v2.0](https://github.com/AeroDLL/linkedin-bot/raw/main/linkedin-ai-pro.user.js) script.
+3. Enter your Gemini API Key in the settings menu.
+4. Log in to LinkedIn and the tool is ready to use!
+
+## 🎯 Who Is It For?
+
+- 📝 Content creators
+- 👥 Professionals building their network
+- 📊 Analytics enthusiasts
+- 💻 Open source developers
+
+## 🛡️ Security & Compliance
+
+- Compliant with LinkedIn Community Guidelines and Terms of Use.
+- Includes rate limiting and security measures.
+- All operations are performed locally; your data is never exported.
+
+## 🤝 Contribution
+
+Feel free to contribute! Issues, pull requests, and feedback are always welcome.
+
+## 📄 License
+
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
+
+---
+
+
