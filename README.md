@@ -1,4 +1,4 @@
-# 🚀 LinkedIn AI Pro v2.0
+# 🚀 LinkedIn AI Pro v2.1
 
 **Akıllı LinkedIn Deneyimi İçin Açık Kaynaklı Asistan**
 
@@ -31,7 +31,7 @@ LinkedIn AI Pro, profesyonellerin LinkedIn üzerindeki etkileşimlerini akıllı
 ## 📥 Kurulum
 
 1. [Tampermonkey](https://www.tampermonkey.net/) eklentisini tarayıcınıza yükleyin
-2. [LinkedIn AI Pro v2.0](https://github.com/AeroDLL/linkedin-bot/raw/main/linkedin-ai-pro.user.js) betiğini yükleyin
+2. [LinkedIn AI Pro v2.1](https://github.com/AeroDLL/linkedin-bot/raw/main/linkedin-ai-pro.user.js) betiğini yükleyin
 3. Ayarlar menüsünden Gemini API Key'inizi girin
 4. LinkedIn'e giriş yapın ve araç kullanıma hazır!
 
@@ -58,7 +58,7 @@ Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) 
 
 ---
 
-# 🚀 LinkedIn AI Pro v2.0
+# 🚀 LinkedIn AI Pro v2.1
 
 **Open Source Assistant for a Smart LinkedIn Experience**
 
@@ -91,7 +91,7 @@ LinkedIn AI Pro is a fully open-source userscript that helps professionals intel
 ## 📥 Installation
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension on your browser.
-2. Install the [LinkedIn AI Pro v2.0](https://github.com/AeroDLL/linkedin-bot/raw/main/linkedin-ai-pro.user.js) script.
+2. Install the [LinkedIn AI Pro v2.1](https://github.com/AeroDLL/linkedin-bot/raw/main/linkedin-ai-pro.user.js) script.
 3. Enter your Gemini API Key in the settings menu.
 4. Log in to LinkedIn and the tool is ready to use!
 
