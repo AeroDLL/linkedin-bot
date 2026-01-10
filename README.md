@@ -118,4 +118,71 @@ This project is licensed under the MIT license. See the [LICENSE](LICENSE) file 
 
 ---
 
+## 📝 Changelog
+
+### 🎉 v2.1 - Major Feature Update (January 2026)
+
+**7 Yeni Özellik Eklendi / 7 New Features Added:**
+
+#### 🏷️ Hashtag Recommendation System
+- AI-powered hashtag suggestions based on content
+- 70+ curated hashtags across 7 industries
+- Click-to-add functionality
+- Smart industry detection
+
+#### ⏰ Best Posting Time Analysis
+- 24-hour activity heatmap visualization
+- Automatic time zone detection
+- Data-driven posting recommendations
+- Peak hours identification
+
+#### 📊 Advanced Analytics Dashboard
+- Enhanced metrics (Engagement Rate, Total Actions)
+- Historical data storage (500 entries)
+- CSV/JSON export functionality
+- Weekly/monthly trend tracking
+
+#### 🛡️ Enhanced Anti-Ban System
+- Advanced rate limiting (hourly & daily)
+- Randomized delays (10-30 seconds)
+- Human behavior simulation
+- Session activity monitoring
+- Auto-stop at safety limits
+
+#### 🌙 Advanced Dark Mode
+- Complete dark theme support
+- Smooth theme toggle
+- LocalStorage persistence
+- CSS variable-based theming
+- All components themed
+
+#### ⭐ Influencer Finder
+- Industry-based influencer search
+- Influencer scoring algorithm (0-100)
+- Bookmark management system
+- Direct LinkedIn profile integration
+- Engagement metrics display
+
+#### 🎯 Competitor Analysis
+- Competitor profile tracking
+- Performance comparison metrics
+- Scoring algorithm
+- Easy add/remove functionality
+
+**Teknik İyileştirmeler / Technical Improvements:**
+- ✅ Custom scrollbar for sidebar
+- ✅ Event delegation for better performance
+- ✅ ESLint compliance
+- ✅ Shadow DOM optimization
+- ✅ Multi-language support (TR/EN)
+- ✅ ~900 lines of new code
+- ✅ 20+ new functions
+
+**Bug Fixes:**
+- Fixed influencer profile view buttons
+- Added sidebar scroll functionality
+- Resolved ESLint errors
+- Improved data persistence
+
+---
 
